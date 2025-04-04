@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pytesseract
+langchain
+faiss-cpu
+transformers
+easyocr
