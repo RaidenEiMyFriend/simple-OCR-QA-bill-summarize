@@ -43,6 +43,10 @@ streamlit run streamlit_ui.py
 - `faiss-cpu`
 - `transformers`
 
+## Contact
+If you have any questions, feel free to contact me at [dinhvuha2003@gmail.com](mailto:dinhvuha2003@gmail.com).
+
+
 
 
 
