@@ -46,8 +46,10 @@ streamlit run streamlit_ui.py
 ## Demo
 For example, i have this bill for my shopping:
 ![Image](results/temp.jpg)
+
 When i drag the file to the app, it generates texts based on the bill like this:
 ![Text](results/image2.png)
+
 If i want to ask something about the bill, it will be like this:
 ![Asking](results/image1.png)
 
