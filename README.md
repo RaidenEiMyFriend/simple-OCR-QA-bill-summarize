@@ -43,6 +43,15 @@ streamlit run streamlit_ui.py
 - `faiss-cpu`
 - `transformers`
 
+## Demo
+For example, i have this bill for my shopping:
+![Image](results/temp.jpg)
+When i drag the file to the app, it generates texts based on the bill like this:
+![Text](results/image2.jpg)
+If i want to ask something about the bill, it will be like this:
+![Asking](results/image1.jpg)
+
+
 ## Contact
 If you have any questions, feel free to contact me at [dinhvuha2003@gmail.com](mailto:dinhvuha2003@gmail.com).
 
